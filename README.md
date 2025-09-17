@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abel  
 
 💻 Cybersecurity & Digital Forensics Student at ITLA (Dominican Republic)  
-🔐 Passionate about Blue Team, Threat Hunting & System Defense  
+🔐 Passionate about Red Team, Threat Hunting & Pentesting 
 ⚡ Exploring CTF challenges, network security, and forensic analysis  
 🙏 Faith-driven, motivated to grow in knowledge & wisdom  
 
