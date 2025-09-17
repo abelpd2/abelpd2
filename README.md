@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abel  
+# 👋 Hi, I'm Jose Abel  
 
 💻 Cybersecurity & Digital Forensics Student at ITLA (Dominican Republic)  
 🔐 Passionate about Red Team, Threat Hunting & Pentesting 
