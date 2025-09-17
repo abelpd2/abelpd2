@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Abel  
 
-<!--
-**abelpd2/abelpd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity & Digital Forensics Student at ITLA (Dominican Republic)  
+🔐 Passionate about Blue Team, Threat Hunting & System Defense  
+⚡ Exploring CTF challenges, network security, and forensic analysis  
+🙏 Faith-driven, motivated to grow in knowledge & wisdom  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently studying **Cybersecurity & Forensic Informatics**  
+- 🔎 Interested in **Blue Team strategies, SOC operations, and defensive tools**  
+- 🧩 Enjoy solving **Capture The Flag (CTF)** challenges  
+- 📚 Always learning and sharing knowledge about **programming, networking & security**  
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python, Bash, Pseudocode (Psint), SQL basics  
+- **Cybersecurity Tools:** Wireshark, Nmap, BloodHound, Evil-WinRM  
+- **Other Tech:** Virtualization (VMWare/VirtualBox), Git, Linux Administration  
+
+---
+
+## 📂 Projects
+- 🔑 [CTF Writeups](#) – My journey solving different CTF challenges  
+- 🛡️ [Security Labs](#) – Notes & practices on penetration testing and defense  
+- 📊 [Algorithms & Code](#) – Logic exercises and programming projects  
+
+---
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter/X](#)  
+- 📧 **your-email@example.com**  
+
+---
+
+⭐️ *"Security is not a product, but a process."* – Bruce Schneier  
