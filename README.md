@@ -9,14 +9,14 @@
 
 ## 🚀 About Me
 - 🎓 Currently studying **Cybersecurity & Forensic Informatics**  
-- 🔎 Interested in **Blue Team strategies, SOC operations, and defensive tools**  
+- 🔎 Interested in **Red Team, SOC operations, and web explotation**  
 - 🧩 Enjoy solving **Capture The Flag (CTF)** challenges  
 - 📚 Always learning and sharing knowledge about **programming, networking & security**  
 
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, Bash, Pseudocode (Psint), SQL basics  
+- **Programming:** Python, Bash, java, SQL basics  
 - **Cybersecurity Tools:** Wireshark, Nmap, Burpsuite, Evil-WinRM  
 - **Other Tech:** Virtualization (VMWare/VirtualBox), Git, Linux Administration  
 
