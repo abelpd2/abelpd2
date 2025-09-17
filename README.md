@@ -17,23 +17,14 @@
 
 ## 🛠️ Skills
 - **Programming:** Python, Bash, Pseudocode (Psint), SQL basics  
-- **Cybersecurity Tools:** Wireshark, Nmap, BloodHound, Evil-WinRM  
+- **Cybersecurity Tools:** Wireshark, Nmap, Burpsuite, Evil-WinRM  
 - **Other Tech:** Virtualization (VMWare/VirtualBox), Git, Linux Administration  
 
 ---
 
-## 📂 Projects
-- 🔑 [CTF Writeups](#) – My journey solving different CTF challenges  
-- 🛡️ [Security Labs](#) – Notes & practices on penetration testing and defense  
-- 📊 [Algorithms & Code](#) – Logic exercises and programming projects  
-
----
-
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter/X](#)  
-- 📧 **your-email@example.com**  
-
+- 💼  http://www.linkedin.com/in/jose-abel-pichardo-56b4462b4
+- 📧 abelpichardo345@gmail.com
 ---
 
 ⭐️ *"Security is not a product, but a process."* – Bruce Schneier  
